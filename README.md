@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🤠 I'm currently learning Hardware Description Languages, Machine Learning, Embeded Systems, Control Systems and more.
 
 <!--
 **santiagov01/santiagov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
